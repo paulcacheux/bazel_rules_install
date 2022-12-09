@@ -109,3 +109,5 @@ installer(
 ## See also
 
 * [Examples](examples/README.md)
+
+test CI
